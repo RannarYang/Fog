@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MapSkin" width="1280" height="640" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="bg_png" x="0" y="0"/>
+</e:Skin>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="5" tilewidth="128" tileheight="128" nextobjectid="1">
+ <tileset firstgid="1" name="fog" tilewidth="128" tileheight="128" tilecount="16" columns="4">
+  <image source="fog.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="17" name="covers" tilewidth="128" tileheight="128" tilecount="16" columns="4">
+  <image source="fog.png" width="512" height="512"/>
+ </tileset>
+ <layer name="块层 1" width="10" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBwGGAAUtAAz
+  </data>
+ </layer>
+</map>
